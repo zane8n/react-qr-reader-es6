@@ -30,7 +30,7 @@ A [React](https://facebook.github.io/react/) component for reading QR codes from
 
 ```js
 import React, { Component } from 'react'
-import QrReader from 'react-qr-reader'
+import QrReader from 'react-qr-reader-es6'
 
 class Test extends Component {
   state = {
